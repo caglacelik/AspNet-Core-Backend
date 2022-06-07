@@ -1,0 +1,14 @@
+C:\Users\mvi\source\repos\NLayerApp\Core\bin\ARM32\Debug\net6.0\Core.deps.json
+C:\Users\mvi\source\repos\NLayerApp\Core\bin\ARM32\Debug\net6.0\Core.runtimeconfig.json
+C:\Users\mvi\source\repos\NLayerApp\Core\bin\ARM32\Debug\net6.0\Core.dll
+C:\Users\mvi\source\repos\NLayerApp\Core\bin\ARM32\Debug\net6.0\Core.pdb
+C:\Users\mvi\source\repos\NLayerApp\Core\obj\ARM32\Debug\net6.0\Core.csproj.AssemblyReference.cache
+C:\Users\mvi\source\repos\NLayerApp\Core\obj\ARM32\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mvi\source\repos\NLayerApp\Core\obj\ARM32\Debug\net6.0\Core.AssemblyInfoInputs.cache
+C:\Users\mvi\source\repos\NLayerApp\Core\obj\ARM32\Debug\net6.0\Core.AssemblyInfo.cs
+C:\Users\mvi\source\repos\NLayerApp\Core\obj\ARM32\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\mvi\source\repos\NLayerApp\Core\obj\ARM32\Debug\net6.0\Core.dll
+C:\Users\mvi\source\repos\NLayerApp\Core\obj\ARM32\Debug\net6.0\refint\Core.dll
+C:\Users\mvi\source\repos\NLayerApp\Core\obj\ARM32\Debug\net6.0\Core.pdb
+C:\Users\mvi\source\repos\NLayerApp\Core\obj\ARM32\Debug\net6.0\Core.genruntimeconfig.cache
+C:\Users\mvi\source\repos\NLayerApp\Core\obj\ARM32\Debug\net6.0\ref\Core.dll
